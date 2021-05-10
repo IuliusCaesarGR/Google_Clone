@@ -1,16 +1,12 @@
-<<<<<<< HEAD
 *{
     box-sizing: border-box;
     padding: 0;
 }
-=======
->>>>>>> main
 html
 {
     font-size: 62.5%;
     font-family: Arial, Helvetica, sans-serif;
 }
-<<<<<<< HEAD
 header
 {
     width: 100vw;
@@ -68,7 +64,6 @@ nav .nav__container .nav__menu
     margin-left: 5px;
     cursor: pointer;
 }
-=======
 main
 {
     margin-top: 150px;
@@ -163,4 +158,3 @@ main .main__text
     font-size: 1.3rem;
     margin-top: 30px;
 }
->>>>>>> main
