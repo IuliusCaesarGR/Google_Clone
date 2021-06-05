@@ -1,0 +1,44 @@
+@media (min-width: 320px) and (max-width: 600px)
+{
+    
+    main .main__botton {
+        width: 100vw;
+    }
+    main .main__input
+    {
+        width: 100vw;
+        display: flex;
+        justify-content: center;
+    }
+    main  .main__input--container
+    {
+        width: 80%;
+    }
+    main  .main__input--container input
+    {
+        width: 75%;
+    }
+    footer {
+        height: 70px;
+        grid-template-columns: 1fr;
+        align-items: center;
+        width: 100vw;
+    }
+    footer .footer__left{
+        margin-bottom: 0px;
+    }
+    footer .footer__right
+    {
+        padding-top: 5px;
+        justify-content: center;
+        align-items: center;
+        margin: 0px 8px 0px 0px;
+        width: 100vw;
+        height: 40px;
+        background-color: #f2f2f2;
+    }
+    footer ul li a{
+        margin-bottom: 0px;
+    }
+
+}
